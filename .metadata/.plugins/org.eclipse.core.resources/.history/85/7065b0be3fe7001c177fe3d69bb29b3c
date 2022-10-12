@@ -1,0 +1,11 @@
+package çoklukalýtým2;
+
+public class Uygulama2 {
+
+	public static void main(String[] args) {
+		
+		CepTelefonu ceptelefonu=new CepTelefonu();
+
+	}
+
+}

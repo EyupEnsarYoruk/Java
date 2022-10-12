@@ -1,0 +1,5 @@
+package labaratuvar14;
+
+public interface Relatable {
+
+}

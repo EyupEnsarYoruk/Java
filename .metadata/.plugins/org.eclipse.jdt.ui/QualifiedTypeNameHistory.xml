@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="javax.swing.plaf.synth.SynthSpinnerUI"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="java.lang.Math"/>
+<fullyQualifiedTypeName name="java.lang.Double"/>
+<fullyQualifiedTypeName name="java.text.DecimalFormat"/>
+<fullyQualifiedTypeName name="java.util.Random"/>
+<fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
+<fullyQualifiedTypeName name="sınıfvenesne.Top"/>
+<fullyQualifiedTypeName name="labaratuvar7.Personel"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="kalıtım.Top"/>
+<fullyQualifiedTypeName name="kalıtım.FutbolTopu"/>
+<fullyQualifiedTypeName name="kalıtım.BasketbolTopu"/>
+<fullyQualifiedTypeName name="personandcustomer.Customer"/>
+<fullyQualifiedTypeName name="shipandcruiseandcargo.ShipApp"/>
+<fullyQualifiedTypeName name="shipandcruiseandcargo.Ship"/>
+<fullyQualifiedTypeName name="shipandcruiseandcargo.CruiseShip"/>
+<fullyQualifiedTypeName name="shipandcruiseandcargo.CargoShip"/>
+<fullyQualifiedTypeName name="çokbiçimlilik.Öğretmen"/>
+<fullyQualifiedTypeName name="çokbiçimlilik.Personel"/>
+<fullyQualifiedTypeName name="essayactivity.Essay"/>
+<fullyQualifiedTypeName name="erişim1.Personel"/>
+<fullyQualifiedTypeName name="erişim2.Memur"/>
+<fullyQualifiedTypeName name="sarmalama.Personel"/>
+<fullyQualifiedTypeName name="sahiplik.Adres"/>
+<fullyQualifiedTypeName name="sahiplik.Personel"/>
+<fullyQualifiedTypeName name="soyutlama.CepTelefonu"/>
+<fullyQualifiedTypeName name="soyutlama.Masaüstü"/>
+<fullyQualifiedTypeName name="soyutlama.Latop"/>
+<fullyQualifiedTypeName name="labaratuvar13.Taksi"/>
+<fullyQualifiedTypeName name="labaratuvar13.Kepçe"/>
+<fullyQualifiedTypeName name="çoklukalıtım.CepTelefonu"/>
+<fullyQualifiedTypeName name="çoklukalıtım2.CepTelefonu"/>
+<fullyQualifiedTypeName name="labaratuvar14.GradedActivity"/>
+<fullyQualifiedTypeName name="labaratuvar14.FinalExam"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="koleksiyonlar.Top"/>
+<fullyQualifiedTypeName name="java.awt.Color"/>
+</qualifiedTypeNameHistroy>

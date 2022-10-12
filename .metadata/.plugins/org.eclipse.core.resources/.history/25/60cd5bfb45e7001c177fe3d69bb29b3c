@@ -1,0 +1,22 @@
+package finalkelimesi;
+
+import java.awt.Color;
+
+public class Top {
+
+	double çap;
+	Color renk;
+	
+	public Top(double çap, Color renk) {
+		super();
+		this.çap = çap;
+		this.renk = renk;
+	}
+	
+	public void çapýAyarla() {
+		
+		
+	}
+	
+	
+}

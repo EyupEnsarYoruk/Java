@@ -1,0 +1,23 @@
+package çoklukalýtým2;
+
+public class Uygulama2 {
+
+	public static void main(String[] args) {
+		
+		CepTelefonu ceptelefonu=new CepTelefonu();
+		
+		System.out.println("50 + 10 = "+ceptelefonu.toplamaYap(50, 10));
+		System.out.println("50 - 10 = "+ceptelefonu.çýkarmaYap(50, 10));
+		System.out.println("50 / 10 = "+ceptelefonu.bölmeYap(50, 10));
+		System.out.println("50 * 10 = "+ceptelefonu.çarpmaYap(50, 10));
+		
+		System.out.println();
+		
+		ceptelefonu.aramaYap();
+		ceptelefonu.dosyaAç();
+		ceptelefonu.dosyaDüzenle();
+		ceptelefonu.dosyaKaydet();
+
+	}
+
+}

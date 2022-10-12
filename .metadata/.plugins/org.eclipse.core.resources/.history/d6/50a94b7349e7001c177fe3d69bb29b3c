@@ -1,0 +1,32 @@
+package labaratuvar14;
+
+public class FinalExam extends GradedActivity implements Relatable {
+
+	private int numQuestions;// toplam soru sayýsý
+	private double pointsEach; // her bir soru için puan
+	private int numMissed;
+	
+	public FinalExam() {
+		
+		
+	}
+
+	@Override
+	public boolean equals(GradedActivity g) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+	@Override
+	public boolean isGreater(GradedActivity g) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+	@Override
+	public boolean isLess(GradedActivity g) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+}

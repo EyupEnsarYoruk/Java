@@ -1,0 +1,9 @@
+package finalkelimesi;
+
+public class Öðretmen extends Personel {
+
+	public Öðretmen() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

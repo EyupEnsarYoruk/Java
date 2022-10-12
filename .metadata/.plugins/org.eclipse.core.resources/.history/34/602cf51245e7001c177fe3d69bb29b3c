@@ -1,0 +1,13 @@
+package finalkelimesi;
+
+public final class Personel {
+	
+	String adsoyad;
+	int yaþ, sicilno;
+	double maaþ;
+	
+	
+	
+	
+
+}

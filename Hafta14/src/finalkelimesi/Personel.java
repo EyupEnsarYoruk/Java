@@ -1,0 +1,18 @@
+package finalkelimesi;
+
+public final class Personel {
+	
+	String adsoyad;
+	int yaþ, sicilno;
+	double maaþ;
+	
+	public Personel(String adsoyad, int yaþ, int sicilno, double maaþ) {
+		super();
+		this.adsoyad = adsoyad;
+		this.yaþ = yaþ;
+		this.sicilno = sicilno;
+		this.maaþ = maaþ;
+	}
+	
+	
+}

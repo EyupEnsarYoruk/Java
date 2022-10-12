@@ -1,0 +1,11 @@
+package labaratuvar14;
+
+public class RelatableApp {
+
+	public static void main(String[] args) {
+		
+		FinalExam exam1=new FinalExam(100, numMissed)
+
+	}
+
+}

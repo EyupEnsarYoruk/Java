@@ -1,0 +1,7 @@
+package labaratuvar14;
+
+public class GradedActivity {
+	
+	private double score;
+
+}

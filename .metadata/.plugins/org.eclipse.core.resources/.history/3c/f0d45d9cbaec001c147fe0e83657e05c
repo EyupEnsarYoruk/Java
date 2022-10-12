@@ -1,0 +1,15 @@
+package koleksiyonlar;
+
+import java.util.ArrayList;
+
+public class Uygulama1 {
+
+	public static void main(String[] args) {
+		
+		ArrayList<Top> toplar=new ArrayList<Top>();
+		
+		
+
+	}
+
+}

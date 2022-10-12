@@ -1,0 +1,27 @@
+package koleksiyonlar;
+
+import java.awt.Color;
+import java.util.ArrayList;
+
+public class Uygulama1 {
+
+	public static void main(String[] args) {
+		
+		ArrayList<Top> toplar=new ArrayList<Top>();
+		
+		Top top1=new Top("Plastik", 30, Color.white, 10);
+		
+		toplar.add(top1);
+		
+		toplar.add(new Top("Deri", 25, Color.red, 3));
+		
+		for (int i = 0; i < toplar.size(); i++) {
+			
+		}
+		
+		
+				
+
+	}
+
+}

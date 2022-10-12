@@ -1,0 +1,10 @@
+package labaratuvar14;
+
+public interface Relatable {
+	
+	public boolean equals(GradedActivity g);
+	
+	
+	
+
+}

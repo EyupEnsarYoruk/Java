@@ -1,0 +1,17 @@
+package labaratuvar14;
+
+public class GradedActivity {
+	
+	private double score;
+
+	public double getScore() {
+		return score;
+	}
+
+	public void setScore(double score) {
+		this.score = score;
+	}
+	
+	
+
+}

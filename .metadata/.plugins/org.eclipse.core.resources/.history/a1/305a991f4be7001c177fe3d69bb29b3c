@@ -1,0 +1,51 @@
+package labaratuvar14;
+
+public class FinalExam extends GradedActivity implements Relatable {
+
+	private int numQuestions;// toplam soru sayýsý
+	private double pointsEach; // her bir soru için puan
+	private int numMissed; // cevapsýz býrakýlan soru sayýsý
+	
+	public FinalExam(int numQuestions, int numMissed ) {
+		
+		double numericScore; // net puaný tutan deðiþken
+		
+		this.numQuestions=numQuestions;
+		this.numMissed=numMissed;
+		
+		pointsEach = 100.0 /numQuestions; //her soru için puan
+		
+		numericScore=100.0 -(numMissed*pointsEach); //öðrencinin net puaný 
+		
+		setScore(numericScore);
+	}
+
+	@Override
+	public boolean equals(GradedActivity g) {
+		
+		boolean status;
+		
+		if (this.getScore()== g.getScore()) {
+			status=true;
+		} else {
+			status=false;
+		}
+	
+		return status;
+	}
+
+	@Override
+	public boolean isGreater(GradedActivity g) {
+		
+		boolean status;
+		
+		return false;
+	}
+
+	@Override
+	public boolean isLess(GradedActivity g) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+}

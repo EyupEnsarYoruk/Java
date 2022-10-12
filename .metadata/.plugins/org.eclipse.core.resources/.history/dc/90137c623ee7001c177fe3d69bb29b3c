@@ -1,0 +1,78 @@
+package çoklukalýtým2;
+
+public class CepTelefonu implements Telefon, Bilgisayar, FotoðrafMakinesi {
+
+	@Override
+	public double toplamaYap(double sayý1, double sayý2) {
+	
+		
+		return sayý1+sayý2;
+	}
+
+	@Override
+	public double çýkarmaYap(double sayý1, double sayý2) {
+		
+		return sayý1-sayý2;
+	}
+
+	@Override
+	public double bölmeYap(double sayý1, double sayý2) {
+		
+		return sayý1/sayý2;
+	}
+
+	@Override
+	public double çarpmaYap(double sayý1, double sayý2) {
+		
+		return 0;
+	}
+
+	@Override
+	public void fotoðrafÇek() {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void videoÇek() {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void interneteBaðlan() {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void dosyaAç() {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void dosyaDüzenle() {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void dosyaKaydet() {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void mesajGönder() {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void aramaYap() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

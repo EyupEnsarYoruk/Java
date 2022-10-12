@@ -1,0 +1,24 @@
+package labaratuvar14;
+
+public class RelatableApp {
+
+	public static void main(String[] args) {
+		
+		FinalExam exam1=new FinalExam(100, 20);
+		
+		FinalExam exam2=new FinalExam(100, 30);
+		
+		System.out.println("1. Final sýnavý: "+ exam1.getScore());
+		
+		System.out.println("2. Final sýnavý: "+ exam2.getScore());
+		
+		System.out.println();
+		
+		if (exam1.equals(exam2)) {
+			System.out.println("Sýnav puanlarý eþittir...");
+		}
+		
+
+	}
+
+}

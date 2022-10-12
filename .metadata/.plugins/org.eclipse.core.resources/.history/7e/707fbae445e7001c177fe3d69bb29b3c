@@ -1,0 +1,7 @@
+package finalkelimesi;
+
+public class Top {
+
+	double çap;
+	Color renk;
+}
